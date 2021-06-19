@@ -1,4 +1,4 @@
-   payload:
+payload:
   - DOMAIN,injections.adguard.org
   - DOMAIN,local.adguard.org
   - DOMAIN-SUFFIX,local
